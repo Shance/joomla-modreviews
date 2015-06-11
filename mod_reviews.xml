@@ -37,6 +37,10 @@
 		 		last="100"
 		 		step="1" />
 			
+			<field name="image" type="media"
+				label="MOD_REVIEWS_FIELD_IMAGE_LABEL" description="MOD_REVIEWS_FIELD_IMAGE_DESC"
+			/>
+			
 			<field name="layout" type="modulelayout"
 				label="JFIELD_ALT_LAYOUT_LABEL" description="JFIELD_ALT_MODULE_LAYOUT_DESC" />
         </fieldset>
